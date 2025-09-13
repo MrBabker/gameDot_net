@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MNM\\Projects\\API_NET\\APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|c:\\mnm\\projects\\api_net\\apis\\apis\\controllers\\playersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\playersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|c:\\mnm\\projects\\api_net\\apis\\apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|solutionrelative:apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|c:\\mnm\\projects\\api_net\\apis\\apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132EB9-9EDE-497B-8D40-D33CA372AC1E}|APIs\\APIs.csproj|solutionrelative:apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "APIs\\appsettings.json",
+              "ToolTip": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\appsettings.json",
+              "RelativeToolTip": "APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T13:20:22.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\Program.cs",
+              "RelativeDocumentMoniker": "APIs\\Program.cs",
+              "ToolTip": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\Program.cs",
+              "RelativeToolTip": "APIs\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:29:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayersInfo.cs",
+              "DocumentMoniker": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\Controllers\\PlayersInfo.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\PlayersInfo.cs",
+              "ToolTip": "C:\\MNM\\Projects\\API_NET\\APIs\\APIs\\Controllers\\PlayersInfo.cs",
+              "RelativeToolTip": "APIs\\Controllers\\PlayersInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:16:21.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
